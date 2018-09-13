@@ -2,4 +2,4 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum Classes { Fighter }
+public enum Resistances { Fire }
